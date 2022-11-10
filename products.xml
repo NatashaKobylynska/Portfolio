@@ -1,0 +1,37 @@
+<products>
+	<product>
+		<name>Roborock S5 Max</name>
+		<color>white</color>
+		<price>16999</price>
+		<code>189864298</code>
+		<weight>3.5</weight>
+	</product>
+	<product>
+		<name>BOSCH SPV6ZMX23E</name>
+		<color>white</color>
+		<price>42699</price>
+		<code>253149046</code>
+		<weight>38.36</weight>
+	</product>
+	<product>
+		<name>SIEMENS TP503R09</name>
+		<color>black</color>
+		<price>19999</price>
+		<code>95294992</code>
+		<weight>8.38</weight>
+	</product>
+	<product>
+		<name>ROWENTA TN1603F0</name>
+		<color>black</color>
+		<price>769</price>
+		<code>311582148</code>
+		<weight>0.36</weight>
+	</product>
+	<product>
+		<name>BaByliss D570DE</name>
+		<color>black</color>
+		<price>769</price>
+		<code>311582148</code>
+		<weight>0.45</weight>
+	</product>
+</products>

@@ -1,0 +1,39 @@
+{
+   "products":[
+      {
+         "name":"Roborock S5 Max",
+         "color":"white",
+         "price":16999,
+         "code":"189864298",
+         "weight":3.5
+      },
+      {
+         "name":"BOSCH SPV6ZMX23E",
+         "color":"white",
+         "price":42699,
+         "code":"253149046",
+         "weight":38.36
+      },
+      {
+         "name":"SIEMENS TP503R09",
+         "color":"black",
+         "price":19999,
+         "code":"95294992",
+         "weight":8.38
+      },
+      {
+         "name":"ROWENTA TN1603F0",
+         "color":"black",
+         "price":769,
+         "code":"311582148",
+         "weight":0.36
+      },
+      {
+         "name":"BaByliss D570DE",
+         "color":"black",
+         "price":769,
+         "code":"311582148",
+         "weight":0.45
+      }
+   ]
+}
